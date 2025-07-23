@@ -49,19 +49,13 @@ This project was developed as part of the Bachelor of Technology curriculum and 
 
 ### 📁Project Structure
 ```
-PCSE25-59/
-├── congestion_model/
-│   ├── fast_rcnn_model.h5         # Pretrained Fast R-CNN model
-│   ├── motion_tracking.py         # Path tracking using OpenCV
-│   ├── congestion_predictor.py   # ML model for congestion prediction
-│   ├── utils.py                  # Helper functions
-│   ├── requirements.txt          # Python dependencies
-│   └── traffic_video.mp4         # Sample video input
+Project/
+├── Source code/
+│   ├── tracking-vehicle.ipynb    # Object detection And Path Tracking
+│   └── traffic_prediction.ipynb  # Traffic Congestion Prediction
 ├── documents/
 │   ├── project_report.pdf        # Complete project documentation
 │   ├── synopsis.pdf              # Project synopsis
-│   ├── certificate_project_report.pdf  # Certificate signed by project guide
-│   ├── plag_report.pdf           # Plagiarism report
 │   └── Journal_documents/
 │       ├── ResearchPaper-2025.pdf      # Research paper for Journal Of Optics(SCI)
 │       ├── Presentation_certificate_Vikas_Kumar.pdf # Presentation certificate
@@ -93,8 +87,7 @@ PCSE25-59/
 
 *1. Clone the Repository*
 ```
-git clone https://github.com/cse-kiet/PCSE25-59.git
-cd PCSE25-59/congestion_model
+git clone https://github.com/VikasKumar2001/Deep-TraficFLow
 ```
 
 
@@ -133,10 +126,6 @@ To predict congestion based on counting:
 python Traffic Prediction.ipynb
 ```
 
-To run the main app
-```
-python app.py
-```
 
 
 ### 📚Included Documents
