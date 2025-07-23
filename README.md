@@ -3,7 +3,6 @@
 *Team Members:*
 
 * *Vikas Kumar* (21002901000188 – CSE – 8C)
-* *Shreyansh Tiwari* (21002901000159 – CSE – 8C)
 
 
 *Project Guide:*
