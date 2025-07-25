@@ -130,13 +130,13 @@ python Traffic Prediction.ipynb
 
 ### 📚Included Documents
 
-Located in the documents/ folder:
+Located in the Research_paper/ folder:
 
-* project_report.pdf: Complete documentation of the project.
-* synopsis.pdf: Project synopsis.
-* certificate_project_report.pdf: Certificate signed by project guide.
-* plag_report.pdf: Plagiarism report.
-* conference_documents/: Contains the research paper, presentation, and certificates related to Journal Of Optics(SCI).
+* conference_documents/: Contains the research paper related to Journal Of Optics(SCI).
+
+### 📽 Demo GIF
+
+![Deep TrafficFlow Demo](Result/traffic.gif)
 
 
 
